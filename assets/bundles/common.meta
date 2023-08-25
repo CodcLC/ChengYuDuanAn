@@ -1,0 +1,29 @@
+{
+  "ver": "1.1.3",
+  "uuid": "ea76c541-fdd8-4431-820d-45e9622e1cb1",
+  "importer": "folder",
+  "isBundle": true,
+  "bundleName": "",
+  "priority": "6",
+  "compressionType": {
+    "android": "default",
+    "ios": "default",
+    "wechatgame": "subpackage"
+  },
+  "optimizeHotUpdate": {
+    "android": false,
+    "ios": false,
+    "wechatgame": false
+  },
+  "inlineSpriteFrames": {
+    "android": false,
+    "ios": false,
+    "wechatgame": false
+  },
+  "isRemoteBundle": {
+    "android": true,
+    "ios": true,
+    "wechatgame": false
+  },
+  "subMetas": {}
+}

@@ -1,0 +1,27 @@
+
+lx.png
+size: 625,208
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 32
+  size: 174, 244
+  orig: 176, 246
+  offset: 1, 1
+  index: -1
+tf
+  rotate: false
+  xy: 464, 37
+  size: 159, 169
+  orig: 186, 215
+  offset: 27, 0
+  index: -1
+to
+  rotate: true
+  xy: 248, 2
+  size: 204, 214
+  orig: 204, 214
+  offset: 0, 0
+  index: -1

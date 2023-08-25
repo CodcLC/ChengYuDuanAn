@@ -1,0 +1,27 @@
+
+xx.png
+size: 708,209
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 2
+  size: 205, 280
+  orig: 205, 280
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 284, 2
+  size: 249, 205
+  orig: 249, 205
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 535, 22
+  size: 171, 185
+  orig: 171, 185
+  offset: 0, 0
+  index: -1

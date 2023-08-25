@@ -1,0 +1,27 @@
+
+jz.png
+size: 316,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 2, 70
+  size: 271, 273
+  orig: 271, 273
+  offset: 0, 0
+  index: -1
+to
+  rotate: 180
+  xy: 171, 113
+  size: 138, 151
+  orig: 138, 151
+  offset: 0, 0
+  index: -1
+tofa
+  rotate: true
+  xy: 133, 4
+  size: 114, 180
+  orig: 114, 180
+  offset: 0, 0
+  index: -1

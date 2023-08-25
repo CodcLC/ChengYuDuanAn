@@ -1,0 +1,41 @@
+
+ds.png
+size: 405,495
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fs
+  rotate: true
+  xy: 307, 294
+  size: 70, 96
+  orig: 70, 100
+  offset: 0, 0
+  index: -1
+fs1
+  rotate: false
+  xy: 307, 366
+  size: 82, 127
+  orig: 91, 127
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 175
+  size: 303, 318
+  orig: 303, 318
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 182, 14
+  size: 159, 216
+  orig: 161, 216
+  offset: 0, 0
+  index: -1
+to
+  rotate: true
+  xy: 2, 2
+  size: 171, 178
+  orig: 171, 178
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+hl.png
+size: 587,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 2
+  size: 228, 273
+  orig: 228, 273
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 451, 43
+  size: 187, 134
+  orig: 187, 135
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 277, 8
+  size: 172, 222
+  orig: 172, 222
+  offset: 0, 0
+  index: -1

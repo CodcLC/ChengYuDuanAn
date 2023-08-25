@@ -1,0 +1,20 @@
+
+bl.png
+size: 530,222
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 3
+  size: 217, 288
+  orig: 217, 304
+  offset: 0, 0
+  index: -1
+to
+  rotate: true
+  xy: 292, 2
+  size: 218, 236
+  orig: 218, 236
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+gly6.png
+size: 287,317
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mz
+  rotate: false
+  xy: 2, 2
+  size: 187, 178
+  orig: 187, 178
+  offset: 0, 0
+  index: -1
+mz1
+  rotate: false
+  xy: 2, 182
+  size: 283, 133
+  orig: 283, 133
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 191, 3
+  size: 177, 84
+  orig: 177, 84
+  offset: 0, 0
+  index: -1

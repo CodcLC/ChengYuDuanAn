@@ -1,0 +1,20 @@
+
+ld.png
+size: 503,241
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 9
+  size: 230, 293
+  orig: 230, 293
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 297, 2
+  size: 204, 237
+  orig: 204, 237
+  offset: 0, 0
+  index: -1

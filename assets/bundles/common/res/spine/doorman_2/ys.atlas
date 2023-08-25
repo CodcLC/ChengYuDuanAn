@@ -1,0 +1,48 @@
+
+ys.png
+size: 157,397
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+buozi
+  rotate: false
+  xy: 43, 18
+  size: 17, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 213
+  size: 130, 182
+  orig: 130, 182
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 2, 92
+  size: 132, 128
+  orig: 132, 132
+  offset: 0, 0
+  index: -1
+tofa
+  rotate: false
+  xy: 2, 3
+  size: 152, 108
+  orig: 152, 108
+  offset: 0, 0
+  index: -1
+tofa2
+  rotate: false
+  xy: 2, 225
+  size: 34, 47
+  orig: 34, 47
+  offset: 0, 0
+  index: -1
+tofa3
+  rotate: false
+  xy: 2, 6
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1

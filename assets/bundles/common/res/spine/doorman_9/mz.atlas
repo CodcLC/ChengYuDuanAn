@@ -1,0 +1,27 @@
+
+mz.png
+size: 601,203
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 22
+  size: 179, 267
+  orig: 179, 267
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 482, 26
+  size: 175, 117
+  orig: 175, 117
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 271, 2
+  size: 209, 199
+  orig: 209, 199
+  offset: 0, 0
+  index: -1

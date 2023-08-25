@@ -1,0 +1,20 @@
+
+xh.png
+size: 428,232
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 2, 2
+  size: 210, 228
+  orig: 211, 228
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 214, 4
+  size: 212, 226
+  orig: 212, 226
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+gly2.png
+size: 269,303
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mz
+  rotate: true
+  xy: 89, 114
+  size: 187, 178
+  orig: 187, 178
+  offset: 0, 0
+  index: -1
+mz1
+  rotate: true
+  xy: 2, 2
+  size: 299, 85
+  orig: 299, 85
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 89, 28
+  size: 171, 84
+  orig: 171, 84
+  offset: 0, 0
+  index: -1

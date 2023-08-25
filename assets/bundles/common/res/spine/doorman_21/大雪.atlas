@@ -1,0 +1,27 @@
+
+大雪.png
+size: 656,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 217, 31
+  size: 178, 298
+  orig: 178, 298
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 517, 57
+  size: 152, 137
+  orig: 152, 137
+  offset: 0, 0
+  index: -1
+to
+  rotate: false
+  xy: 2, 2
+  size: 213, 207
+  orig: 213, 211
+  offset: 0, 4
+  index: -1

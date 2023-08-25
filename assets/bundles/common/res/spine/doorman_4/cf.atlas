@@ -1,0 +1,34 @@
+
+cf.png
+size: 293,423
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fasi
+  rotate: true
+  xy: 2, 3
+  size: 132, 110
+  orig: 132, 110
+  offset: 0, 0
+  index: -1
+st
+  rotate: false
+  xy: 2, 191
+  size: 176, 230
+  orig: 176, 230
+  offset: 0, 0
+  index: -1
+to
+  rotate: 180
+  xy: 86, 75
+  size: 163, 156
+  orig: 163, 156
+  offset: 0, 0
+  index: -1
+tofa
+  rotate: true
+  xy: 145, 208
+  size: 179, 145
+  orig: 179, 145
+  offset: 0, 0
+  index: -1

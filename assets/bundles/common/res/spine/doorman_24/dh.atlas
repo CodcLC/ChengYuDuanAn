@@ -1,0 +1,27 @@
+
+dh.png
+size: 227,582
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 409
+  size: 171, 223
+  orig: 171, 223
+  offset: 0, 0
+  index: -1
+tf
+  rotate: false
+  xy: 2, 229
+  size: 223, 178
+  orig: 237, 201
+  offset: 14, 0
+  index: -1
+to
+  rotate: true
+  xy: 2, 2
+  size: 225, 220
+  orig: 227, 220
+  offset: 2, 0
+  index: -1

@@ -1,0 +1,20 @@
+
+dz.png
+size: 425,202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: true
+  xy: 2, 5
+  size: 195, 265
+  orig: 195, 265
+  offset: 0, 0
+  index: -1
+to
+  rotate: true
+  xy: 269, 2
+  size: 198, 154
+  orig: 198, 154
+  offset: 0, 0
+  index: -1

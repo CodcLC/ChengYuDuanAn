@@ -1,0 +1,27 @@
+
+qf.png
+size: 445,347
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 2, 30
+  size: 235, 315
+  orig: 235, 315
+  offset: 0, 0
+  index: -1
+tf
+  rotate: true
+  xy: 239, 2
+  size: 145, 153
+  orig: 152, 175
+  offset: 7, 5
+  index: -1
+to
+  rotate: false
+  xy: 239, 149
+  size: 204, 196
+  orig: 204, 196
+  offset: 0, 0
+  index: -1

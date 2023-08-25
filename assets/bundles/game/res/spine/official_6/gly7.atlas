@@ -1,0 +1,27 @@
+
+gly7.png
+size: 636,182
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mz
+  rotate: false
+  xy: 361, 2
+  size: 187, 178
+  orig: 187, 178
+  offset: 0, 0
+  index: -1
+mz1
+  rotate: false
+  xy: 2, 40
+  size: 357, 140
+  orig: 357, 140
+  offset: 0, 0
+  index: -1
+st
+  rotate: true
+  xy: 550, 9
+  size: 171, 84
+  orig: 171, 84
+  offset: 0, 0
+  index: -1

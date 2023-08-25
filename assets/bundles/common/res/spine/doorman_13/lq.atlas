@@ -1,0 +1,27 @@
+
+lq.png
+size: 356,285
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+st
+  rotate: false
+  xy: 2, 2
+  size: 195, 281
+  orig: 195, 281
+  offset: 0, 0
+  index: -1
+to
+  rotate: true
+  xy: 199, 83
+  size: 200, 155
+  orig: 200, 155
+  offset: 0, 0
+  index: -1
+图层161
+  rotate: false
+  xy: 199, 25
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
